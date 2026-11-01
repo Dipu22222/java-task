@@ -60,8 +60,7 @@ The program asks for `n`, calculates the nth prime number, inserts it into an H2
   <img src="images/task1-jdbc.png" alt="Task 1 - JDBC output" width="90%">
 </p>
 
-<details>
-<summary><b>📄 PrimeJDBC.java (click to expand)</b></summary>
+#### 📄 Code: PrimeJDBC.java
 
 ```java
 import java.sql.*;
@@ -132,7 +131,6 @@ public class PrimeJDBC {
 }
 ```
 
-</details>
 
 ---
 
@@ -148,8 +146,7 @@ http://localhost:8080/myapp/hello
   <img src="images/task2-hello-servlet.png" alt="Task 2 - Hello World servlet" width="90%">
 </p>
 
-<details>
-<summary><b>📄 HelloServlet.java (click to expand)</b></summary>
+#### 📄 Code: HelloServlet.java
 
 ```java
 import java.io.IOException;
@@ -175,7 +172,6 @@ public class HelloServlet extends HttpServlet {
 }
 ```
 
-</details>
 
 ---
 
@@ -195,8 +191,7 @@ You can also pass the number directly in the address, for example `http://localh
   <img src="images/task3-prime-checker.png" alt="Task 3 - Prime checker servlet" width="90%">
 </p>
 
-<details>
-<summary><b>📄 PrimeServlet.java (click to expand)</b></summary>
+#### 📄 Code: PrimeServlet.java
 
 ```java
 import java.io.IOException;
@@ -249,7 +244,6 @@ public class PrimeServlet extends HttpServlet {
 }
 ```
 
-</details>
 
 ---
 
